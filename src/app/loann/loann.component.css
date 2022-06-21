@@ -1,0 +1,85 @@
+#first {
+  font-size: 30px;
+  margin-top: 20px;
+  color: #0a4f7d;
+}
+#firstp {
+  font-size: 46px;
+  margin-top: 30px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+#sec {
+  margin-top: 60px;
+  margin-bottom: 20px;
+}
+.card-body {
+  padding-top: 20;
+  margin: 20;
+}
+.card-header {
+  margin-top: 50;
+}
+.base {
+  margin: 50px;
+  font-size: 40px;
+  text-align: center;
+}
+form {
+  padding: 10px;
+  border: 2px solid #3498db;
+  background: #3f4245;
+  border-radius: 15px;
+  display: none;
+  text-align: center;
+}
+
+#formButton {
+  border-radius: 10px;
+  font-family: Arial;
+  color: #ffffff;
+
+  font-size: 18px;
+  background: #020506;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-left: 677px;
+  margin-bottom: 30px;
+}
+
+#formButton:hover {
+  background: #4f5356;
+  text-decoration: none;
+}
+
+b {
+  color: white;
+}
+#submit {
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 15px;
+  background: #0a4f7d;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+#submit:hover {
+  background: #0a4f7d;
+  text-decoration: none;
+}
+#apply {
+  margin-top: -10px;
+  margin-bottom: -30px;
+}
+.inp {
+  color: white;
+}
+.apply {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+.btn-primary {
+  background-color: #020506;
+}
